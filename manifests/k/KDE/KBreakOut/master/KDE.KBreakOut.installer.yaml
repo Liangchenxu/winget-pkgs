@@ -6,17 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: kbreakout
+ReleaseDate: 2026-09-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-869-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A2132DFDB48C8E9907DA7CC71ACD821C41D67212ECEC8B452D1446B10FBAADC4
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-902-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 8BFE8EAA1948C9DB4EBF2C96AFF04A643C7691DBEF1AB59A19451D3CC5014641
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-869-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: A2132DFDB48C8E9907DA7CC71ACD821C41D67212ECEC8B452D1446B10FBAADC4
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbreakout/master/windows/kbreakout-master-902-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 8BFE8EAA1948C9DB4EBF2C96AFF04A643C7691DBEF1AB59A19451D3CC5014641
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

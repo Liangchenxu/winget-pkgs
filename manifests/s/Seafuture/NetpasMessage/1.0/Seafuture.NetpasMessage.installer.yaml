@@ -8,12 +8,13 @@ Scope: machine
 Protocols:
 - netpasmessage
 ProductCode: '{5744BE9E-4C12-4A23-BFFD-BBAE8C84456E}_is1'
+ReleaseDate: 2026-09-03
 Installers:
 - Architecture: x86
   InstallerUrl: https://file.netpas.net/ftp/NetpasMessageSetup.exe
-  InstallerSha256: 89D219C8026EFB9BED92511BBB5CA734EC5133EC2EC7A4EA4248B9E580D97913
+  InstallerSha256: 6B3CF74AA15730AE214849C78CDA40D058B5235E47BEAEEEB2B05C70F433F24D
 - Architecture: x64
   InstallerUrl: https://file.netpas.net/ftp/NetpasMessageSetup.exe
-  InstallerSha256: 89D219C8026EFB9BED92511BBB5CA734EC5133EC2EC7A4EA4248B9E580D97913
+  InstallerSha256: 6B3CF74AA15730AE214849C78CDA40D058B5235E47BEAEEEB2B05C70F433F24D
 ManifestType: installer
 ManifestVersion: 1.12.0

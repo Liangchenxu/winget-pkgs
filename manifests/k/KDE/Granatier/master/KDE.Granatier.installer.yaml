@@ -6,17 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: granatier
+ReleaseDate: 2026-09-04
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-917-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 6A0748AA7E98DBB3E79F7E1DFDBA2C0255D8C50565FF2D48F03863D5ACE4F466
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-954-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 5694752892430D4D0F0A2AC849039C94014FA9B92E7629CDC081D7C869FDC561
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-917-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 6A0748AA7E98DBB3E79F7E1DFDBA2C0255D8C50565FF2D48F03863D5ACE4F466
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/granatier/master/windows/granatier-master-954-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 5694752892430D4D0F0A2AC849039C94014FA9B92E7629CDC081D7C869FDC561
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
