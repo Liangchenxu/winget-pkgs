@@ -121,12 +121,12 @@ FileExtensions:
 - wvx
 - xspf
 - xss
-ReleaseDate: 2026-10-22
+ReleaseDate: 2026-10-26
 ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
   InstallerUrl: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
-  InstallerSha256: EBC81D4989B2F864C5586C9F8B9B02CE41CA843581289358F466C44C48A4E604
+  InstallerSha256: 3AD15DD85F8BEEAF96126DDEC3072F8F5402658A5C353BC69A32FE7A3DDFFDE2
   ProductCode: PotPlayer
   AppsAndFeaturesEntries:
   - ProductCode: PotPlayer
@@ -134,7 +134,7 @@ Installers:
     DefaultInstallLocation: '%ProgramFiles(x86)%\DAUM\PotPlayer'
 - Architecture: x64
   InstallerUrl: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
-  InstallerSha256: 7B7BA047CAF4BC9902EF208EAE0B91C53DD98019B255D57FD9414E3D41270604
+  InstallerSha256: 5AE66C53FB42A4E160BB223D959996B2C0C59460FF4D14AE3109F9329E091993
   ProductCode: PotPlayer64
   AppsAndFeaturesEntries:
   - DisplayName: PotPlayer-64 bit
@@ -143,7 +143,7 @@ Installers:
     DefaultInstallLocation: '%ProgramFiles%\DAUM\PotPlayer'
 - Architecture: arm64
   InstallerUrl: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetupARM64.exe
-  InstallerSha256: A8C52BB074DC287ADF7114928B5BF89702E4B68CCA6625F5D4D463630AC8F370
+  InstallerSha256: F889C4938E3B844C548B2A9C2E25D8E2DB924383AEFC6EABDBA04DA90117CBD9
   ProductCode: PotPlayer64
   AppsAndFeaturesEntries:
   - DisplayName: PotPlayer-64 bit
